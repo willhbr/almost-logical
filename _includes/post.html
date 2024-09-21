@@ -28,6 +28,10 @@
   {% if post.podcastfile %}
     <audio controls preload="none" src="{{ post.podcastfile }}"></audio>
   {% endif %}
+
+  {% if post.yt_id %}
+    {% include yt_embed.html %}
+  {% endif %}
   
   <div class="post-body">
     {{ post.content }}

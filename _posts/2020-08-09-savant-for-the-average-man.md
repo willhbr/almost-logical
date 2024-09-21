@@ -6,6 +6,7 @@ layout: post
 podcastfile: "https://traffic.libsyn.com/secure/thedop/episode-2.mp3"
 length: "39159411"
 permalink: /episodes/2
+yt_id: 0xzLdsjipvk
 ---
 
 Joel quizzes Jordan and Will on their understanding of high school physics.

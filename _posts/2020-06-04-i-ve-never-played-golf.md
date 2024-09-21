@@ -6,6 +6,7 @@ layout: post
 podcastfile: "https://traffic.libsyn.com/secure/thedop/episode-0.mp3"
 length: "19935958"
 permalink: /episodes/0
+yt_id: YL5627GpdHc
 ---
 
 Jordan, Joel, and Will pitch each other on terrible patents.

@@ -1,0 +1,18 @@
+images:
+  dev:
+    tag: almost-logical:latest
+    from: Containerfile
+
+containers:
+  dev:
+    name: almost-logical
+    image: almost-logical:latest
+    interactive: true
+    autoremove: true
+    ports:
+      4321: 80
+    bind_mounts:
+      .: /src
+    flags:
+      host: 0
+      port: 80

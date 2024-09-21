@@ -6,6 +6,7 @@ podcastfile: "https://traffic.libsyn.com/secure/thedop/episode-3.mp3"
 length: "44406377"
 permalink: /episodes/3
 layout: post
+yt_id: mWg4w4CKDck
 ---
 
 Will quizzes Joel & Jordan on pop culture.

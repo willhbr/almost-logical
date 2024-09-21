@@ -6,6 +6,7 @@ layout: post
 podcastfile: "https://traffic.libsyn.com/secure/thedop/episode-1.mp3"
 length: "28734643"
 permalink: /episodes/1
+yt_id: 0kxrGLZc_l4
 ---
 
 Jordan, Joel, and Will pitch each other on questionable Kickstarters.
