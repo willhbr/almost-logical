@@ -2,8 +2,6 @@ title: Almost Logical
 description: >
   Three nerds talk about whatever takes their fancy
 
-url: "https://almostlogical.net"
-
 # Build settings
 markdown: kramdown
 exclude:
